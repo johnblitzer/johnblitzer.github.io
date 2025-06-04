@@ -1,1 +1,1 @@
-# john-blitzer.github.io
+# johnblitzer.github.io
