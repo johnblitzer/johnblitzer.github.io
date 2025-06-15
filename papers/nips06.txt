@@ -1,0 +1,8 @@
+@inproceedings{Bendavid06Analysis,
+author = {Shai Ben-David and John Blitzer and Koby Crammer and Fernando Pereira},
+title = {Analysis of Representations for Domain Adaptation},
+booktitle = "Advances in Neural Information Processing Systems 20",
+publisher = "MIT Press",
+address = "Cambridge, MA",
+year = "2007"
+}

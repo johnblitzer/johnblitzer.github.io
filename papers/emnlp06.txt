@@ -1,0 +1,7 @@
+@inproceedings{Blitzer06domain
+author = {John Blitzer and Ryan McDonald and Fernando Pereira},
+title = {Domain Adaptation with Structural Correspondence Learning},
+booktitle = "Conference on Empirical Methods in Natural Language Processing",
+address = "Sydney, Australia",
+year = "2006"
+}

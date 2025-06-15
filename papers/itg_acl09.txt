@@ -1,0 +1,7 @@
+@inproceedings{Haghighi09ITG
+author = {Aria Haghighi and John Blitzer and Dan Klein},
+title = {Better Word Alignments with Supervised ITG Models},
+booktitle = "Association for Computational Linguistics",
+address = "Singapore",
+year = "2009"
+}

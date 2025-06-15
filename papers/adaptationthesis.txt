@@ -1,0 +1,5 @@
+@phdthesis{blitzerphd08,
+author = {John Blitzer},
+title = {Domain Adaptation of Natural Language Processing Systems},
+school = {University of Pennsylvania}
+year = {2008}}

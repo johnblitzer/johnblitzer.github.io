@@ -1,0 +1,7 @@
+@inproceedings{Talukdar08DRASO,
+author = {Partha Pratim Talukdar and John Blitzer and Ted Sandler and Mark Dredze and Koby Crammer and Fernando Pereira},
+title = {DRASO: Declaratively Regularized Alternating Structural Optimization},
+booktitle = "ICML 2008 Workshop on Prior Knowledge for Text and Language Processing",
+address = "Hesinki, Finland",
+year = "2008"
+}

@@ -1,0 +1,7 @@
+@inproceedings{Gao09Bilingual
+author = {Wei Gao and John Blitzer and Ming Zhou and Kam-Fai Wong},
+title = {Exploiting Bilingual Information to Improve Monolingual Web Search},
+booktitle = "Association for Computational Linguistics",
+address = "Singapore",
+year = "2009"
+}

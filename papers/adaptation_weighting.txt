@@ -1,0 +1,8 @@
+@inproceedings{Blitzer07Learning,
+author = {John Blitzer and Koby Crammer and Alex Kulesza and Fernando Pereira and Jenn Wortman},
+title = {Learning Bounds for Domain Adaptation},
+booktitle = "Advances in Neural Information Processing Systems 21",
+publisher = "MIT Press",
+address = "Cambridge, MA",
+year = "2008"
+}

@@ -1,0 +1,5 @@
+@inproceedings{Ben-David09Adaptation,
+        author = {Shai Ben-David and John Blitzer and Koby Crammer and Alex Kulesza and Fernando Pereira and Jenn Wortman},
+	journal={Machine Learning},
+	issue={Special Issue on Learning from Multiple Sources},
+	year={2009}}

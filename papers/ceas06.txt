@@ -1,0 +1,7 @@
+@inproceedings{dredze06attachment,
+author = {Mark Dredze and John Blitzer and Fernando Pereira},
+title = {"Sorry I forgot the attachment": Email Attachment Prediction},
+booktitle = "3rd Conference on Email and Anti-Spam",
+address = "Stanford, CA",
+year = "2006"
+}

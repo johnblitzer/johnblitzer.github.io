@@ -1,0 +1,7 @@
+@inproceedings{Dredze07Frustratingly,
+author = {Mark Dredze and John Blitzer and Pratha Pratim Talukdar and Kuzman Ganchev and Joao Graca and Fernando Pereira},
+title = {Frustratingly Hard Domain Adaptation for Parsing},
+booktitle = "Proceedings of the {CoNLL} Shared Task Session - Conference on Natural Language Learning",
+address = "Prague, Czech Republic"
+year = "2007"
+}

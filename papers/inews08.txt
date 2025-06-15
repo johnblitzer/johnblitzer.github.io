@@ -1,0 +1,7 @@
+@inproceedings{Gao08Improving,
+author = {Wei Gao and John Blitzer and Ming Zhou},
+title = {Using English Information in Non-English Web Search},
+booktitle = "2nd Workshop on Improving Non-English Web Search",
+address = "Napa Valley, CA",
+year = "2008"
+}

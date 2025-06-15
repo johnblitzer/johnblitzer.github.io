@@ -1,0 +1,8 @@
+@inproceedings{Sandler08Regularized,
+author = {Ted Sandler and John Blitzer and Partha Talukdar and Fernando Pereira},
+title = {Regularized Learning with Networks of Features},
+booktitle = "Neural Information Processing Systems",
+publisher = "MIT Press",
+address = "Cambridge, MA",
+year = "2009"
+}

@@ -1,0 +1,7 @@
+@inproceedings{Blitzer11Coupled
+author = {John Blitzer and Dean Foster and Sham Kakade},
+title = {Domain Adaptation with Coupled Subspaces},
+booktitle = "Conference on Artificial Intelligence and Statistics",
+address = "Fort Lauterdale",
+year = "2011"
+}

@@ -1,0 +1,5 @@
+@inproceedings{ganchevuai08,
+author = {Kuzman Ganchev and Joao Graca and John Blitzer and Ben Taskar},
+title = {Multi-View Learning over Structured and Non-Identical Outputs},
+booktitle = {Uncertainty in Artificial Intelligence},
+year = {2008}}

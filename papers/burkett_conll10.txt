@@ -1,0 +1,6 @@
+@inproceedings{Burkett10conll
+author = {David Burkett and Slav Petrov and John Blitzer and Dan Klein},
+title = {Learning Better Monolingual Models with Unannotated Bilingual Text},
+booktitle = "Conference on Natural Language Learning",
+year = "2010"
+}

@@ -1,0 +1,7 @@
+@inproceedings{Blitzer05Distributed,
+ author={John Blitzer and Amir Globerson and Fernando Pereira},
+ title={Distributed Latent Variable Models of Lexical Co-occurrences},
+ booktitle = {Proceedings of the Tenth International Workshop on Artificial Intelligence and Statistics},
+ year ={2005},
+ month = {January}
+}

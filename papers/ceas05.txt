@@ -1,0 +1,7 @@
+@inproceedings{dredze05reply,
+author = {Mark Dredze and John Blitzer and Fernando Pereira},
+title = {Reply Expectation Prediction for Email Management},
+booktitle = "2nd Conference on Email and Anti-Spam",
+address = "Stanford, CA",
+year = "2005"
+}

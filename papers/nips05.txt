@@ -1,0 +1,8 @@
+@inproceedings{weinberger06distance,
+author = {Kilian Weinberger and John Blitzer and Lawrence Saul},
+title = {Distance Metric Learning for Large Margin Nearest Neighbor Classification},
+booktitle = "Advances in Neural Information Processing Systems 19",
+publisher = "MIT Press",
+address = "Cambridge, MA",
+year = "2006"
+}

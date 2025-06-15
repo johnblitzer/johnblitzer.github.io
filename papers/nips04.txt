@@ -1,0 +1,9 @@
+@inproceedings{Blitzer05Hierachical,
+author = {John Blitzer and Kilian Weinberger and Lawrence Saul and Fernando Pereira},
+title = {Hierarchical Distributed Representations for Statistical Language Modeling},
+booktitle = "Advances in Neural Information Processing Systems 18",
+editor = "Lawrence K. Saul and Yair Weiss and {L\'{e}on} Bottou",
+publisher = "MIT Press",
+address = "Cambridge, MA",
+year = "2005"
+}

@@ -1,0 +1,7 @@
+@inproceedings{Burkett10Joint
+author = {David Burkett and John Blitzer and Dan Klein},
+title = {Joint Parsing and Alignment with Weakly Synchronized Grammars},
+booktitle = "North American Association for Computational Linguistics",
+address = "Los Angeles",
+year = "2010"
+}

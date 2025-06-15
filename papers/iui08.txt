@@ -1,0 +1,5 @@
+@inproceedings{dredzeiui08,
+author = {Mark Dredze and Tova Brooks and Josh Carroll and Joshua Magarick and John Blitzer and Fernando Pereira},
+title = {Intelligent Email: Reply and Attachment Prediction},
+booktitle = {Intelligent User Interfaces}
+year = {2008}}
